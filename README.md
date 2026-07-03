@@ -75,8 +75,13 @@ Solutions are auto-synced from [NeetCode.io](https://neetcode.io) via the GitHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0001-two-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0001-two-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
