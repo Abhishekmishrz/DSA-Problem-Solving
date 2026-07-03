@@ -87,9 +87,11 @@ Solutions are auto-synced from [NeetCode.io](https://neetcode.io) via the GitHub
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
