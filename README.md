@@ -84,4 +84,12 @@ Solutions are auto-synced from [NeetCode.io](https://neetcode.io) via the GitHub
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
