@@ -68,3 +68,15 @@ Data Structures & Algorithms/
 ## About NeetCode Sync
 
 Solutions are auto-synced from [NeetCode.io](https://neetcode.io) via the GitHub Sync feature. Every accepted submission is committed here automatically. You can also bulk-sync past solutions or manage sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github).
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
