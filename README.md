@@ -75,12 +75,14 @@ Solutions are auto-synced from [NeetCode.io](https://neetcode.io) via the GitHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 ## Enumeration
 |  |
 | ------- |
@@ -100,4 +102,8 @@ Solutions are auto-synced from [NeetCode.io](https://neetcode.io) via the GitHub
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
