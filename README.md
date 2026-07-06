@@ -91,6 +91,7 @@ Solutions are auto-synced from [NeetCode.io](https://neetcode.io) via the GitHub
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Abhishekmishrz/DSA-Problem-Solving/tree/master/0367-valid-perfect-square) |
